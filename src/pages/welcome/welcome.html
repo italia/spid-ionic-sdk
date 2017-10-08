@@ -1,0 +1,29 @@
+<ion-content scroll="false">
+  <div class="splash-bg"></div>
+  <div class="splash-info">
+    <div class="splash-logo"></div>
+    <div class="splash-intro">
+      {{ 'WELCOME_INTRO' | translate }}
+    </div>
+  </div>
+  <div padding>
+    <!-- <button ion-button block (click)="signup()">{{ 'SIGNUP' | translate }}</button>
+    <button ion-button block (click)="login()" class="login">{{ 'LOGIN' | translate }}</button> -->
+
+    <!-- <button ion-button block (click)="openActionSheet()" >{{'ENTRA_CON_SPID' | translate}}</button> -->
+
+    <div class="Grid-cell u-md-size1of2 u-lg-size1of4" style="text-align: center">
+      <div class="Spid">
+        <a href="#spid-button-get-xxs" (click)="openActionSheet()" data-menu-trigger="spid-button-get-xxs" class="Button Spid-button u-text-r-xxs" aria-controls="spid-button-get-xxs" aria-haspopup="true" role="button">
+          <img src="assets/img/spid-ico-circle-bb.svg" alt="">
+          <span>{{'ENTRA_CON_SPID' | translate}}</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- <ion-select [(ngModel)]="provider">
+      <ion-option *ngFor="" value="nes">NES</ion-option>
+    </ion-select> -->
+
+  </div>
+</ion-content>

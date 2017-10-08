@@ -1,0 +1,22 @@
+<!--
+  Generated template for the ProfilePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color="agid">
+    <ion-title>Profile Page</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+  <h1 *ngIf="user && user.nome && user.cognome && user.nome.length > 0 && user.cognome.length > 0">Benvenuto {{user.nome}} {{user.cognome}}</h1>
+  <h1 *ngIf="!user">Benvenuto nel test #hackdev17</h1>
+  <button ion-button block (click)="navigateToRoot()">{{'LOGOUT_BUTTON' | translate}}</button>
+
+</ion-content>
