@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-actionsheet",
+        "scope": null,
+        "escapedName": "cordova-plugin-actionsheet",
+        "name": "cordova-plugin-actionsheet",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/vivad/Links/Hackdev17/18app-login-spid/node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-actionsheet@latest",
+  "_id": "cordova-plugin-actionsheet@2.3.3",
+  "_inCache": true,
+  "_location": "/cordova-plugin-actionsheet",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-actionsheet-2.3.3.tgz_1483373957490_0.057802831986919045"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-actionsheet",
+    "scope": null,
+    "escapedName": "cordova-plugin-actionsheet",
+    "name": "cordova-plugin-actionsheet",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-actionsheet/-/cordova-plugin-actionsheet-2.3.3.tgz",
+  "_shasum": "e9261b2d004a8da407388d60df534c156c52ff11",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-actionsheet",
+  "_where": "/home/vivad/Links/Hackdev17/18app-login-spid/node_modules",
+  "author": {
+    "name": "Eddy Verbruggen - @EddyVerbruggen"
+  },
+  "bugs": {
+    "url": "https://github.com/EddyVerbruggen/cordova-plugin-actionsheet/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-actionsheet",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Show a sheet of options the user can choose from.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e9261b2d004a8da407388d60df534c156c52ff11",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-actionsheet/-/cordova-plugin-actionsheet-2.3.3.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "b7773b9087f76487640e5ced493f3c0abac98399",
+  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-actionsheet#readme",
+  "keywords": [
+    "ActionSheet",
+    "UIActionSheet",
+    "AlertDialog",
+    "Dialog",
+    "List",
+    "Picker",
+    "Popup",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-actionsheet",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-actionsheet.git"
+  },
+  "scripts": {},
+  "version": "2.3.3"
+}

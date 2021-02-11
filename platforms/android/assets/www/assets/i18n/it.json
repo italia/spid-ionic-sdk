@@ -1,0 +1,73 @@
+{
+  "BACK_BUTTON_TEXT": "Indietro",
+
+  "NAME": "Nome",
+  "EMAIL": "Email",
+  "USERNAME": "Nome utente",
+  "PASSWORD": "Password",
+  "LOGIN": "Login",
+  "SIGNUP": "Registrati",
+
+  "TAB1_TITLE": "Elenco",
+  "TAB2_TITLE": "Ricerca",
+  "TAB3_TITLE": "Impostazioni",
+
+  "MAP_TITLE": "Mappa",
+
+  "TUTORIAL_SKIP_BUTTON": "Salta",
+  "TUTORIAL_CONTINUE_BUTTON": "Continua",
+
+  "TUTORIAL_SLIDE1_TITLE": "Ho capito",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "ok, tutto chiaro quello che devo fare nel #hackdev17!",
+
+  "TUTORIAL_SLIDE2_TITLE": "Ci carichiamo",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Faccio il pieno di benzina per partire alla grande!",
+
+  "TUTORIAL_SLIDE3_TITLE": "Ci siamo",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "E' fatta! Partito!",
+
+  "TUTORIAL_SLIDE4_TITLE": "Pronti a testare SPID?",
+
+  "WELCOME_INTRO": "#hackdev17 #lecce 7-8/10/2017",
+
+  "SETTINGS_TITLE": "Impostazioni",
+  "SETTINGS_OPTION1": "Opzione 1",
+  "SETTINGS_OPTION2": "Opzione 2",
+  "SETTINGS_OPTION3": "Opzione 3",
+  "SETTINGS_OPTION4": "Opzione 4",
+
+  "SETTINGS_PROFILE_BUTTON": "Modifica Profilo",
+
+  "SETTINGS_PAGE_PROFILE": "Modifica Profilo",
+
+  "WELCOME_TITLE": "Benvenuto",
+
+  "LOGIN_TITLE": "Login",
+  "LOGIN_ERROR": "Non è possibile accedere. Ricontrollare le informazioni utente digitate prima di riprovare.",
+  "LOGIN_BUTTON": "Accedi",
+  "SIGNUP_TITLE": "Registrazione",
+  "SIGNUP_ERROR": "Non è possibile creare l'utente. Assicurarsi di aver inserito le informazioni utente correttamente e poi riprovare.",
+  "SIGNUP_BUTTON": "Registrati",
+
+  "LIST_MASTER_TITLE": "Elenco elementi",
+
+  "ITEM_CREATE_TITLE": "Nuovo elemento",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Aggiungi immagine",
+
+  "ITEM_NAME_PLACEHOLDER": "Nome",
+  "ITEM_ABOUT_PLACEHOLDER": "Informazioni",
+
+  "DONE_BUTTON": "Fatto",
+  "CANCEL_BUTTON": "Annulla",
+  "DELETE_BUTTON": "Elimina",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Ricerca",
+  "SEARCH_PLACEHOLDER": "Trova elementi in lista, ex. \"Donald Duck\"",
+
+  "ENTRA_CON_SPID": "ENTRA CON SPID",
+
+  "LOGOUT_BUTTON": "LOGOUT"
+
+}
