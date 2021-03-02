@@ -1,7 +1,7 @@
 # spid-ionic-sdk
 SPID authentication library for Ionic
 
-⚠️ Attenzione! Questo progetto non è più manutenuto dai suoi autori. Se vuoi contribuire al progetto e diventare maintainer contattaci sul [canale Slack](https://developersitalia.slack.com/archives/C7AAA10PN) dedicato.
+⚠️ Attenzione! Questo progetto non è più manutenuto dai suoi autori. Se vuoi contribuire al progetto e diventare maintainer contattaci sul [canale Slack](https://developersitalia.slack.com/archives/C73R3UQE8) dedicato.
 
 
 # Versioni e stack tecnologici utilizzati
